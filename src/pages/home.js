@@ -44,7 +44,6 @@ function home() {
         {/* What I Do */}
         <section id="whatido" className="pb-0">
           <Whatido />
-          {/* <Blockquote /> */}
         </section>
 
         {/* Portfolio */}
