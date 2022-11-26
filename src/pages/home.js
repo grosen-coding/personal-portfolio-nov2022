@@ -58,11 +58,6 @@ function home() {
           {/* <Counter /> */}
         </section>
 
-        {/* Gallery */}
-        {/* <section id="blog" className="pb-0">
-          <Blog />
-        </section> */}
-
         {/* contact */}
         <section id="contact" className="py-0">
           <Contact />
