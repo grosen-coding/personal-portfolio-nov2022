@@ -6,8 +6,6 @@ import About from "../section/aboutDark";
 import Whatido from "../section/whatido";
 import Gallery from "../section/gallery";
 import Resume from "../section/resume";
-// import Counter from "../section/counter";
-// import Blog from "../section/blog";
 import Contact from "../section/contact";
 import Footer from "../section/footer";
 import Preloader from "../layout/Preloader";
